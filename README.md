@@ -1,3 +1,11 @@
+アプリケーションを完成させよう　基礎編　提出課題です。
+
+CSS未着手
+RSpecによるテスト済み（エラーなし）
+
+
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
